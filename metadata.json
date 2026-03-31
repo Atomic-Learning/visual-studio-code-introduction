@@ -1,22 +1,24 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Visual Studio Code: Introduction",
+    "slug": "visual-studio-code-introduction",
+    "description": "An introduction to Visual Studio Code including use cases and an overview of functionality.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "visual-studio-code",
+        "programming",
+        "software-engineering"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "programming-editors-ides"
     ],
     "related": [
-        "",
-        ""
+        "github-codespaces",
+        "atomic-learning-codespaces",
+        "open-source-software-introduction",
+        "version-control-introduction",
+        "vs-code-terminal"
     ]
 }
